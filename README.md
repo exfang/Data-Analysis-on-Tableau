@@ -6,5 +6,8 @@ Adventure Works Cycles (AWC) is an international manufacturer and seller of bicy
 ## Project Deliverables
 Three dashboards in a single Tableau Packaged Workbook (.twbx extension). Each dashboard should contain 3-4 visualisations.
 
+## Analysis and Recommendation
+Watch the linked Youtube video for my analysis: https://youtu.be/CbGTcLQiAbY
+
 ## Project Outcome
 The project achieved an "A" grade.
