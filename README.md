@@ -6,8 +6,15 @@ Adventure Works Cycles (AWC) is an international manufacturer and seller of bicy
 ## Project Deliverables
 Three dashboards in a single Tableau Packaged Workbook (.twbx extension). Each dashboard should contain 3-4 visualisations.
 
+## Download Dataset
+Download dataset here: https://drive.google.com/file/d/1jvPSC6y9Au7yW9ibGwXIBR7rlPY0MRQj/view?usp=sharing
+
+## Set up guide
+- Upload dataset file onto Microsoft SQL Management Studio
+- Open the Tableau File and connect it to your Microsoft SQL Server
+
 ## Analysis and Recommendation
-Watch the linked Youtube video for my analysis: https://youtu.be/CbGTcLQiAbY
+Watch the linked Youtube video for my analysis: [https://youtu.be/CbGTcLQiAbY](https://youtu.be/-10D55YIwoQ)
 
 ## Project Outcome
 The project achieved an "A" grade.
